@@ -1,0 +1,7 @@
+C:\Users\neela\source\repos\neelam biodata\neelam biodata\bin\Debug\neelam biodata.exe.config
+C:\Users\neela\source\repos\neelam biodata\neelam biodata\bin\Debug\neelam biodata.exe
+C:\Users\neela\source\repos\neelam biodata\neelam biodata\bin\Debug\neelam biodata.pdb
+C:\Users\neela\source\repos\neelam biodata\neelam biodata\obj\Debug\neelam biodata.csproj.AssemblyReference.cache
+C:\Users\neela\source\repos\neelam biodata\neelam biodata\obj\Debug\neelam biodata.csproj.CoreCompileInputs.cache
+C:\Users\neela\source\repos\neelam biodata\neelam biodata\obj\Debug\neelam biodata.exe
+C:\Users\neela\source\repos\neelam biodata\neelam biodata\obj\Debug\neelam biodata.pdb
